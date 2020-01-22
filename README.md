@@ -36,27 +36,28 @@ A succinct summary of the different theorem proves I have developed can be found
 * `D`: [Displacement calculus](https://link.springer.com/article/10.1007/s10849-010-9129-2)
 * `HTLG`: [hybrid type-logical grammars](https://www.researchgate.net/publication/268982205_Hybrid_Type-Logical_Categorial_Grammar)
 
+
 ### Wide-coverage parsing
+
  [Grail Light](https://github.com/RichardMoot/GrailLight) is a specialised, wide-coverage chart parser. It is designed to work together with a supertagger - essentially a probabilistic assignment of formulas to words - such as [DeepGrail](https://richardmoot.github.io/DeepGrail/).
 
-GrailLight also includes a semantic lexicon assigning a logical semantics in the style of [Discourse Representation Theory](https://en.wikipedia.org/wiki/Discourse_representation_theory) to parsed sentences. 
+GrailLight also includes a semantic lexicon assigning a logical semantics in the style of [Discourse Representation Theory](https://en.wikipedia.org/wiki/Discourse_representation_theory) to parsed sentences, making it a tool for wide-coverage semantics for French. 
 
 ## Selected publications
 
 [full publication list](https://scholar.google.fr/citations?user=l8_rzAoAAAAJ&hl=nl) (contact me for author's copies of pdf files)
 
+* Moot, R. and Retoré, C., (2019) _Natural language semantics and computability_, Journal of
+Logic, Language and Information **28(2)**, 287-307.
 
-* Moot, R. (2019) _Grail Light_ ([Github](https://github.com/RichardMoot/GrailLight), [Hal](
-https://hal.archives-ouvertes.fr/hal-02101396/))
+* Moot, R. and Stevens-Guile, S.J.  (2019),  _Proof-Theoretic Aspects of Hybrid Type-Logical Grammars_, International Conference on Formal Grammar, 84-100.
+
+* Moot, R. (2018), _Chart Parsing Multimodal Grammars_, [HAL](https://hal.archives-ouvertes.fr/hal-02101396/)
 
 * Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277.
 
 * Moot, R. (2015) _A Type-Logical Treebank for French_, Journal of
 Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/))
 
-* Moot, R. and Retoré, C., (2019) _Natural language semantics and computability_, Journal of
-Logic, Language and Information **28(2)**, 287-307.
-
 * Moot, R. and Retoré, C., (2012) _The Logic of Categorial Grammars: A Deductive account of Natural Language Syntac and Semantics_, Springer.
 
-* Moot, R. and Stevens-Guile, S.J.  (2019),  _Proof-Theoretic Aspects of Hybrid Type-Logical Grammars_, International Conference on Formal Grammar, 84-100.
