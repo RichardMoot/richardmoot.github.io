@@ -16,7 +16,7 @@ I'm a CNRS research scientist working at LIRMM, Montpellier.
 * Wide-coverage syntax and semantics for French,
 * The Grail family of theorem provers/parsers for type-logical grammars.
 
-### The Grail Theorem provers
+### The Grail theorem provers
 
 A succinct summary of the different theorem proves I have developed can be found in the table below (see Moot 2017 and the individual linked prover pages for further details). 
 
@@ -28,7 +28,6 @@ A succinct summary of the different theorem proves I have developed can be found
 | [Grail Light](https://github.com/RichardMoot/GrailLight) | MMCG | SWI Prolog/Tcl/Python | yes | no | no |
 | [Linear One](https://github.com/RichardMoot/LinearOne) | MLL1, D, HTLG | SWI Prolog | yes | NA | no |
 
-
 * `ND`: prover has natural deduction output (true for all provers except Grail 3)
 * `SR`: prover has user-defined set of structural rules 
 * `MMCG`: [multimodal categorial grammars](https://academic.oup.com/jigpal/article/3/2-3/371/732861), 
@@ -36,7 +35,11 @@ A succinct summary of the different theorem proves I have developed can be found
 * `D`: [Displacement calculus](https://link.springer.com/article/10.1007/s10849-010-9129-2)
 * `HTLG`: [hybrid type-logical grammars](https://www.researchgate.net/publication/268982205_Hybrid_Type-Logical_Categorial_Grammar)
 
-### Selected Publications
+
+ [Grail Light](https://github.com/RichardMoot/GrailLight) is a specialised, wide-coverage chart parser. It is designed to work together with a supertagger - essentially a probabilistic assignment of formulas to words - such as [DeepGrail](https://richardmoot.github.io/DeepGrail/).
+
+
+### Selected publications
 
 [full publication list](https://scholar.google.fr/citations?user=l8_rzAoAAAAJ&hl=nl) (contact me for author's copies of pdf files)
 
