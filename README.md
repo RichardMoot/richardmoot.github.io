@@ -18,34 +18,40 @@ I'm a CNRS research scientist working at LIRMM, Montpellier.
 
 ### The Grail Theorem provers
 
-| Prover       | Logic           | Code | ND  | SR
-|---------|----------|-----|-----|-----|
-| Grail0 | MMCG | SWI Prolog |yes | yes |
-| Grail2 | MMCG | SICStus Prolog/Tcl|  yes | yes |
-| Grail3 | MMCG | SWI Prolog/XPCE | no | yes |
-| Grail Light | MMCG | SWI Prolog/Tcl/Python | yes | no | 
-| Linear One | MLL1, D, HTLG | SWI Prolog | yes | NA |
+A succinct summary of the different theorem proves I have developed can be found in the table below (see Moot 2017 and the individual linked prover pages for further details). 
+
+| Prover       | Logic           | Code | ND  | SR | Interactive |
+|---------|----------|-----|-----|-----| -----|
+| [Grail0](https://github.com/RichardMoot/Grail0) | MMCG | SWI Prolog |yes | yes | no |
+| [Grail2](https://github.com/RichardMoot/Grail2) | MMCG | SICStus Prolog/Tcl|  yes | yes | yes |
+| [Grail3](https://github.com/RichardMoot/Grail) | MMCG | SWI Prolog/XPCE | no | yes | yes |
+| [Grail Light](https://github.com/RichardMoot/GrailLight) | MMCG | SWI Prolog/Tcl/Python | yes | no | no |
+| [Linear One](https://github.com/RichardMoot/LinearOne) | MLL1, D, HTLG | SWI Prolog | yes | NA | no |
 
 
 * `ND`: prover has natural deduction output (true for all provers except Grail 3)
 * `SR`: prover has user-defined set of structural rules 
-* `MMCG`: multimodal categorial grammars, 
-* `MLL1`: first-order multiplicative linear logic
-* `D`: Displacement calculus
-* `HTLG`: hybrid type-logical grammars
+* `MMCG`: [multimodal categorial grammars](https://academic.oup.com/jigpal/article/3/2-3/371/732861), 
+* `MLL1`: [first-order linear logic](https://hal.archives-ouvertes.fr/hal-00826416)
+* `D`: [Displacement calculus](https://link.springer.com/article/10.1007/s10849-010-9129-2)
+* `HTLG`: [hybrid type-logical grammars](https://www.researchgate.net/publication/268982205_Hybrid_Type-Logical_Categorial_Grammar)
 
 ### Selected Publications
 
 [full publication list](https://scholar.google.fr/citations?user=l8_rzAoAAAAJ&hl=nl) (contact me for author's copies of pdf files)
 
-Moot, R. (2015) _A Type-Logical Treebank for French_, Journal of
-Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/))
 
-Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277.
-
-
-Moot, R. (2019) _Grail Light_ ([Github](https://github.com/RichardMoot/GrailLight), [Hal](
+* Moot, R. (2019) _Grail Light_ ([Github](https://github.com/RichardMoot/GrailLight), [Hal](
 https://hal.archives-ouvertes.fr/hal-02101396/))
 
-Moot, R. and Retoré, C., (2012) _The Logic of Categorial Grammars: A Deductive account of Natural Language Syntac and Semantics_, Springer.
+* Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277.
 
+* Moot, R. (2015) _A Type-Logical Treebank for French_, Journal of
+Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/))
+
+* Moot, R. and Retoré, C., (2019) _Natural language semantics and computability_, Journal of
+Logic, Language and Information **28(2)**, 287-307.
+
+* Moot, R. and Retoré, C., (2012) _The Logic of Categorial Grammars: A Deductive account of Natural Language Syntac and Semantics_, Springer.
+
+* Moot, R. and Stevens-Guile, S.J.  (2019),  _Proof-Theoretic Aspects of Hybrid Type-Logical Grammars_, International Conference on Formal Grammar, 84-100.
