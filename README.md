@@ -1,7 +1,7 @@
 # Richard Moot's personal homepage
 
 
-I'm a [CNRS](http://www.cnrs.fr) research scientist in computer science, working at [LIRMM](http://www.lirmm.fr) ([Montpellier](https://www.montpellier.fr)).
+I'm a [CNRS](http://www.cnrs.fr) research scientist in computer science, working at [LIRMM](http://www.lirmm.fr) ([Montpellier](https://www.montpellier.fr)) as a member of the [Texte](https://www.lirmm.fr/recherche/equipes/texte) team in computational linguistics.
 
 ## Research interests
 
