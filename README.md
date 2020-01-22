@@ -1,7 +1,7 @@
 # Richard Moot's personal homepage
 
 
-I'm a CNRS research scientist working at LIRMM, Montpellier.
+I'm a [CNRS](http://www.cnrs.fr) research scientist in computer science, working at [LIRMM](http://www.lirmm.fr) ([Montpellier](https://www.montpellier.fr)).
 
 ## Research interests
 
@@ -47,7 +47,7 @@ GrailLight also includes a semantic lexicon assigning a logical semantics in the
 
 [full publication list](https://scholar.google.fr/citations?user=l8_rzAoAAAAJ&hl=nl) (contact me for author's copies of pdf files)
 
-* Moot, R. and Retoré, C., (2019) _Natural language semantics and computability_, Journal of
+* Moot, R. and Retoré, C. (2019), _Natural language semantics and computability_, Journal of
 Logic, Language and Information **28(2)**, 287-307.
 
 * Moot, R. and Stevens-Guile, S.J.  (2019),  _Proof-Theoretic Aspects of Hybrid Type-Logical Grammars_, International Conference on Formal Grammar, 84-100.
@@ -56,8 +56,8 @@ Logic, Language and Information **28(2)**, 287-307.
 
 * Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277.
 
-* Moot, R. (2015) _A Type-Logical Treebank for French_, Journal of
+* Moot, R. (2015), _A Type-Logical Treebank for French_, Journal of
 Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/))
 
-* Moot, R. and Retoré, C., (2012) _The Logic of Categorial Grammars: A Deductive account of Natural Language Syntac and Semantics_, Springer.
+* Moot, R. and Retoré, C. (2012), _The Logic of Categorial Grammars: A Deductive account of Natural Language Syntac and Semantics_, Springer.
 
