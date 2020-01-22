@@ -3,18 +3,19 @@
 
 I'm a CNRS research scientist working at LIRMM, Montpellier.
 
-### Research interests
+## Research interests
 
 * logic, proof theory, proof nets
 * proof theoretic aspects of categorial grammars and type-logical grammars
 * parsing/theorem proving for categorial grammars and type-logical grammars
 * computational linguistics
 
-### Current research
+## Current research
 
 * [TLGbank](https://richardmoot.github.io/TLGbank/), a type-logical treebank  for French,
 * Wide-coverage syntax and semantics for French,
 * The Grail family of theorem provers/parsers for type-logical grammars.
+* Proof-theoretic aspects of type-logical grammars
 
 ### The Grail theorem provers
 
@@ -35,11 +36,12 @@ A succinct summary of the different theorem proves I have developed can be found
 * `D`: [Displacement calculus](https://link.springer.com/article/10.1007/s10849-010-9129-2)
 * `HTLG`: [hybrid type-logical grammars](https://www.researchgate.net/publication/268982205_Hybrid_Type-Logical_Categorial_Grammar)
 
-
+### Wide-coverage parsing
  [Grail Light](https://github.com/RichardMoot/GrailLight) is a specialised, wide-coverage chart parser. It is designed to work together with a supertagger - essentially a probabilistic assignment of formulas to words - such as [DeepGrail](https://richardmoot.github.io/DeepGrail/).
 
+GrailLight also includes a semantic lexicon assigning a logical semantics in the style of [Discourse Representation Theory](https://en.wikipedia.org/wiki/Discourse_representation_theory) to parsed sentences. 
 
-### Selected publications
+## Selected publications
 
 [full publication list](https://scholar.google.fr/citations?user=l8_rzAoAAAAJ&hl=nl) (contact me for author's copies of pdf files)
 
