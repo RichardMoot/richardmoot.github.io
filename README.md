@@ -64,7 +64,7 @@ Logic, Language and Information **28(2)**, 287-307 ([HAL](https://hal.archives-o
 
 * Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277 ([HAL](https://hal.archives-ouvertes.fr/lirmm-01471644v1)).
 
-* Lafourcade, M., Mery, B. Mirzapour, M., Moot, R., and Retoré, C. (2017), _Collecting crowd-Sourced lexical coercions for compositional semantic analysis_, Proceedings LENLS 2017: Logic and Engineering of Natural Language Semantics, Tokyo ([HAL](https://hal.archives-ouvertes.fr/lirmm-01916195v1)).
+* Lafourcade, M., Mery, B. Mirzapour, M., Moot, R., and Retoré, C. (2017), _Collecting crowd-sourced lexical coercions for compositional semantic analysis_, Proceedings LENLS 2017: Logic and Engineering of Natural Language Semantics, Tokyo ([HAL](https://hal.archives-ouvertes.fr/lirmm-01916195v1)).
 
 * Moot, R. (2015), _A Type-Logical Treebank for French_, Journal of
 Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/), [HAL](https://hal.archives-ouvertes.fr/hal-02102867v1)).
