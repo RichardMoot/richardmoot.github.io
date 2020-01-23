@@ -54,7 +54,7 @@ GrailLight also includes a semantic lexicon assigning a logical semantics in the
 * Moot, R. and Retoré, C. (2019), _Natural language semantics and computability_, Journal of
 Logic, Language and Information **28(2)**, 287-307 ([HAL](https://hal.archives-ouvertes.fr/hal-01315316v1)).
 
-* Moot, R. and Stevens-Guile, S.J.  (2019),  _Proof-Theoretic Aspects of Hybrid Type-Logical Grammars_, International Conference on Formal Grammar, 84-100 ([HAL](https://hal.archives-ouvertes.fr/lirmm-02268104v1)).
+* Moot, R. and Stevens-Guile, S. J.  (2019),  _Proof-Theoretic Aspects of Hybrid Type-Logical Grammars_, International Conference on Formal Grammar, 84-100 ([HAL](https://hal.archives-ouvertes.fr/lirmm-02268104v1)).
 
 * Kogkalidis, K., Moortgat, M., Moot, R., and Tziafas, G. (2019), _Deductive parsing with an unbounded type lexicon_, Proceedings SEMSPACE2019, Riga, Latvia ([HAL](https://hal.archives-ouvertes.fr/lirmm-02313572v1)). 
 
@@ -64,7 +64,7 @@ Logic, Language and Information **28(2)**, 287-307 ([HAL](https://hal.archives-o
 
 * Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277 ([HAL](https://hal.archives-ouvertes.fr/lirmm-01471644v1)).
 
-* Lafourcade, M., Mery, B. Mirzapour, M., Moot, R., and Retoré, C. (2017), _Collecting crowd-sourced lexical coercions for compositional semantic analysis_, Proceedings LENLS 2017: Logic and Engineering of Natural Language Semantics, Tokyo ([HAL](https://hal.archives-ouvertes.fr/lirmm-01916195v1)).
+* Lafourcade, M., Mery, B., Mirzapour, M., Moot, R. and Retoré, C. (2017), _Collecting crowd-sourced lexical coercions for compositional semantic analysis_, Proceedings LENLS 2017: Logic and Engineering of Natural Language Semantics, Tokyo ([HAL](https://hal.archives-ouvertes.fr/lirmm-01916195v1)).
 
 * Moot, R. (2015), _A Type-Logical Treebank for French_, Journal of
 Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/), [HAL](https://hal.archives-ouvertes.fr/hal-02102867v1)).
