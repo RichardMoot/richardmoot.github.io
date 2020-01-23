@@ -56,12 +56,14 @@ Logic, Language and Information **28(2)**, 287-307 ([HAL](https://hal.archives-o
 
 * Moot, R. and Stevens-Guile, S.J.  (2019),  _Proof-Theoretic Aspects of Hybrid Type-Logical Grammars_, International Conference on Formal Grammar, 84-100 ([HAL](https://hal.archives-ouvertes.fr/lirmm-02268104v1)).
 
-* Moot, R. (2018), _Chart Parsing Multimodal Grammars_, ([HAL](https://hal.archives-ouvertes.fr/hal-02101396/))
+* Kogkalidis, K., Moortgat, M., Moot, R., and Tziafas, G. (2019), _Deductive parsing with an unbounded type lexicon_, Proceedings SEMSPACE2019, Riga, Latvia ([HAL](https://hal.archives-ouvertes.fr/lirmm-02313572v1)). 
+
+* Moot, R. (2018), _Chart Parsing Multimodal Grammars_, ([HAL](https://hal.archives-ouvertes.fr/hal-02101396/)).
 
 * Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277 ([HAL](https://hal.archives-ouvertes.fr/lirmm-01471644v1)).
 
 * Moot, R. (2015), _A Type-Logical Treebank for French_, Journal of
-Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/), [HAL](https://hal.archives-ouvertes.fr/hal-02102867v1))
+Language Modelling **3(1)**, pp. 229-265 ([Github](https://richardmoot.github.io/TLGbank/), [HAL](https://hal.archives-ouvertes.fr/hal-02102867v1)).
 
 * Moot, R. and Retoré, C. (2012), _The Logic of Categorial Grammars: A Deductive account of Natural Language Syntac and Semantics_, Springer.
 
