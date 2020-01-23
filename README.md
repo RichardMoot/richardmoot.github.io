@@ -45,7 +45,7 @@ GrailLight also includes a semantic lexicon assigning a logical semantics in the
 
 ## Slides and presentations
 
-[Slides](https://richardmoot.github.io/slides/) for some selected presentations, some old, some new.
+[Slides](https://richardmoot.github.io/Slides/) for some selected presentations, some old, some new.
 
 ## Selected publications
 
