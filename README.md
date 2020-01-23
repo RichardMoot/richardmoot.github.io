@@ -58,6 +58,8 @@ Logic, Language and Information **28(2)**, 287-307 ([HAL](https://hal.archives-o
 
 * Kogkalidis, K., Moortgat, M., Moot, R., and Tziafas, G. (2019), _Deductive parsing with an unbounded type lexicon_, Proceedings SEMSPACE2019, Riga, Latvia ([HAL](https://hal.archives-ouvertes.fr/lirmm-02313572v1)). 
 
+* Moot, R. (2018), _Combining logical and distributional methods in type-logical grammars_, Journal of Language Modelling **6(2)**, 287-317 ([HAL](https://hal.archives-ouvertes.fr/lirmm-01651508v1)).
+
 * Moot, R. (2018), _Chart Parsing Multimodal Grammars_, ([HAL](https://hal.archives-ouvertes.fr/hal-02101396/)).
 
 * Moot, R. (2017), _The Grail theorem prover: Type theory for syntax and semantics_, Modern Perspectives in Type-Theoretic Semantics, 247-277 ([HAL](https://hal.archives-ouvertes.fr/lirmm-01471644v1)).
