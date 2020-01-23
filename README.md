@@ -43,6 +43,10 @@ A succinct summary of the different theorem proves I have developed can be found
 
 GrailLight also includes a semantic lexicon assigning a logical semantics in the style of [Discourse Representation Theory](https://en.wikipedia.org/wiki/Discourse_representation_theory) to parsed sentences, making it a tool for wide-coverage semantics for French. 
 
+## Slides and presentations
+
+[Slides](https://richardmoot.github.io/slides/) for some selected presentations, some old, some new.
+
 ## Selected publications
 
 [full publication list](https://scholar.google.fr/citations?user=l8_rzAoAAAAJ&hl=nl) (contact me for author's copies of pdf files)
