@@ -30,7 +30,7 @@ A succinct summary of the different theorem proves I have developed can be found
 | [Linear One](https://github.com/RichardMoot/LinearOne) | MLL1, D, HTLG | SWI Prolog | yes | NA | no |
 
 * `ND`: prover has natural deduction output (true for all provers except Grail 3)
-* `SR`: prover has user-defined set of structural rules 
+* `SR`: prover has user-defined set of structural rules (applicable to multimodal provers only)
 * `MMCG`: [multimodal categorial grammars](https://academic.oup.com/jigpal/article/3/2-3/371/732861), 
 * `MLL1`: [first-order linear logic](https://hal.archives-ouvertes.fr/hal-00826416)
 * `D`: [Displacement calculus](https://link.springer.com/article/10.1007/s10849-010-9129-2)
