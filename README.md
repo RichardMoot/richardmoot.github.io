@@ -51,7 +51,7 @@ GrailLight also includes a semantic lexicon assigning a logical semantics in the
 
 [full publication list](https://scholar.google.fr/citations?user=l8_rzAoAAAAJ&hl=nl) (contact me for author's copies of pdf files)
 
-* Moot, R. (2021), _Type-logical investigations: proof-theoretic, computational and linguistic aspects of modern type-logical grammars_, Habilitation &agrave; diriger des recherches, ([pdf](hdr_short.pdf))
+* Moot, R. (2021), _Type-logical investigations: proof-theoretic, computational and linguistic aspects of modern type-logical grammars_, Habilitation &agrave; diriger des recherches, ([HAL](https://archivesic.ccsd.cnrs.fr/TEXTE/tel-03452731v1), [pdf](hdr_short.pdf))
 
 * Moot, R. and Retoré, C. (2019), _Natural language semantics and computability_, Journal of
 Logic, Language and Information **28(2)**, 287-307 ([HAL](https://hal.archives-ouvertes.fr/hal-01315316v1)).
